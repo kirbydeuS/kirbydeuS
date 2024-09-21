@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I love physics
 
 
-![kirbydeuS GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![kirbydeuS GitHub stats](https://github-readme-stats.vercel.app/api?username=kirbydeuS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
